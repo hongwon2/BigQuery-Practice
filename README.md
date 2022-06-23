@@ -10,6 +10,7 @@
 - [Z chart](https://github.com/hongwon2/BigQuery-Practice/blob/main/Z_%EC%B0%A8%ED%8A%B8_SQL_.ipynb)
 - [기본적인 매출 지표](https://github.com/hongwon2/BigQuery-Practice/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8_%EB%A7%A4%EC%B6%9C_%EC%A7%80%ED%91%9C.ipynb)
 - [히스토그램](https://github.com/hongwon2/BigQuery-Practice/blob/main/%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.ipynb)
+- [RFM](https://github.com/hongwon2/BigQuery-Practice/blob/main/code/RFM_%EB%B6%84%EC%84%9D_%EC%A7%80%ED%91%9C.ipynb)
 
 ## 집계
 - [사용자 별 액션 수 집계법](https://github.com/hongwon2/BigQuery-Practice/blob/main/code/%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98_%EC%95%A1%EC%85%98_%EC%88%98_%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0.ipynb)
